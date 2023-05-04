@@ -1,0 +1,47 @@
+[33mcommit 0ebb2bae56297aabc0cd710941d5eca739f4234b[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Gustavo Luiz <gustavoluizmb@gmail.com>
+Date:   Wed May 3 06:34:34 2023 -0300
+
+    Teste
+
+ teste.txt | Bin [31m0[m -> [32m16[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a94f651626164a82d820814f6acd68b089957687[m
+Author: Gustavo Luiz <gustavoluizmb@gmail.com>
+Date:   Tue May 2 06:28:08 2023 -0300
+
+    inclusão do changelog.md
+
+ changelog.md | 13 [32m+++++++++++++[m
+ 1 file changed, 13 insertions(+)
+
+[33mcommit b4ffb9e61be6e817acd94c40a302469355814cfb[m
+Author: Gustavo Luiz <gustavoluizmb@gmail.com>
+Date:   Tue May 2 06:18:13 2023 -0300
+
+    Colocando ! e , no arquivo2.txt
+
+ arquivo2.txt | Bin [31m22[m -> [32m28[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 252e10731ce466c38cab80216e04440a4b343f36[m
+Author: Gustavo Luiz <gustavoluizmb@gmail.com>
+Date:   Tue May 2 06:16:12 2023 -0300
+
+    Alteração
+
+ arquivo2.txt | Bin [31m0[m -> [32m22[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 7540960c7898d795a17479e8c3f8bdd57de96024[m
+Author: Gustavo Luiz <gustavoluizmb@gmail.com>
+Date:   Tue May 2 06:06:40 2023 -0300
+
+    inclusão dos novos arquivos
+    
+    inclusão dos novos arquivo: arquivo.txt e hi.txt
+
+ arquivo.txt | Bin [31m0[m -> [32m28[m bytes
+ hi.txt      | Bin [31m0[m -> [32m10[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
